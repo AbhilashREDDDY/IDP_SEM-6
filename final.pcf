@@ -1,0 +1,17 @@
+set_io clk R9
+set_io rst B7
+set_io wr B3
+set_io rd B4
+
+set_io in[0] A5
+set_io in[1] A2
+set_io in[2] C3
+
+set_io empty D8
+set_io full B9
+set_io button1 B10
+set_io button2 B11
+set_io button3 B8
+set_io out[0] A9
+set_io out[1] A10
+set_io out[2] A11
